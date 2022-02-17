@@ -13,7 +13,7 @@ To create a pull switch, you will need:
 
 ![The image shows a piece of corrugated card, some aluminium foil, a pencil, a ruler, a glue stick, a pair of scissors and a piece of rainbow coloured ribbon.](images/switch-gather-materials.jpeg)
 
-### Instructions
+**Instructions**
 
 **Step 1:** Cut the **corrugated card** into three rectangles that are the same size. 
 
@@ -49,12 +49,12 @@ To create a pull switch, you will need:
 
 ![A rectangle piece of card is covered with aluminium foil. The pin end of a jumper wire has been stuck to the top section with sticky tape. A further piece of sticky tape has been used to secure the jumper wire in place.](images/pin-sticky-tape-2.jpg)
 
-**Step 10:** Add glue to one side of the middle piece and stick it to the left rectangle. 
-
-This will create a barrier between the two pieces of foil and allow space for your centre piece to be placed inside. 
+**Step 10:** Add glue to one side of the middle piece and stick it to the left rectangle. This will create a barrier between the two pieces of foil and allow space for your centre piece to be placed inside. 
 
 ![The middle piece has now been glued onto the left rectangle.](images/glue-left.jpg)
 
 **Step 11:** Add glue to the other side of the middle piece and stick the foil face of your other rectangle on top. Make sure that the two pieces of foil **are not** touching. You may need to trim your foil if it is overlapping.
 
 ![The right piece has now been glued onto the left rectangle, face down.](images/glue-right.jpg)
+
+Now use your switch with your project!
