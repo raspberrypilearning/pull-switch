@@ -1,11 +1,9 @@
 title: Craft a pull switch
 hero_image: images/banner.png
-description: pull-switch description
+description: How to craft a pull switch for a Raspberry Pi Pico
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-02-17"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Craft a pull switch
