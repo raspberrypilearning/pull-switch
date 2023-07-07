@@ -24,9 +24,9 @@ Om een trekschakelaar te maken, heb je nodig:
 
 ![Drie stukken rechthoekig golfkarton. Het middelste stuk heeft het centrum verwijderd. Het verwijderde stuk wordt ernaast geplaatst.](images/centre-cut.jpg)
 
-**Stap 3:** Neem de **aluminiumfolie** en knip deze in hetzelfde formaat als de ongesneden rechthoeken.
+**Stap 3:** Neem de **aluminiumfolie** en knip deze in hetzelfde formaat als de ongeknipte rechthoeken.
 
-**Stap 4:** Lijm het karton en bevestig de folie. Zorg ervoor dat je niet te veel lijm aan de buitenkant van de folie krijgt, anders tast dit de contacten van de schakelaar aan.
+**Stap 4:** Smeer lijm op het karton en bevestig de folie. Zorg ervoor dat je niet te veel lijm aan de buitenkant van de folie krijgt, anders tast dit de contacten van de schakelaar aan.
 
 ![Drie stukken rechthoekig golfkarton. Op de stukken links en rechts is aluminiumfolie gelijmd.](images/add-foil.jpg)
 
@@ -45,7 +45,7 @@ Om een trekschakelaar te maken, heb je nodig:
 
 ![Een rechthoekig stukje karton is bedekt met folie. Het pinuiteinde van een verbindingsdraad is met plakband aan het bovenste gedeelte geplakt.](images/pin-sticky-tape-1.jpg)
 
-**Stap 9:** Voeg meer tape toe om de verbindingsdraad te beveiligen en te voorkomen dat deze per ongeluk loskomt.
+**Stap 9:** Voeg meer tape toe om de verbindingsdraad goed vast te zetten en te voorkomen dat deze per ongeluk loskomt.
 
 ![Een rechthoekig stukje karton is bedekt met folie. Het pinuiteinde van een verbindingsdraad is met plakband aan het bovenste gedeelte geplakt. Er is nog een stukje plakband gebruikt om de verbindingsdraad vast te zetten.](images/pin-sticky-tape-2.jpg)
 
