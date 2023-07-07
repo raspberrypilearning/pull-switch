@@ -1,0 +1,10 @@
+
+title: Maak een trekschakelaar
+hero_image: images/banner.png
+description: Hoe kan je een zelfgemaakte trekschakelaar aansluiten op een Raspberry Pi Pico
+version: 4
+listed: false
+copyedit: false
+last_tested: "2022-02-17"
+steps:
+  - title: Maak een trekschakelaar
