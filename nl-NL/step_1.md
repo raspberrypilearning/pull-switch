@@ -1,60 +1,60 @@
-To create a pull switch, you will need:
+Om een trekschakelaar te maken, heb je nodig:
 
-- A pair of scissors
-- Corrugated card
-- Aluminium foil
-- A glue stick
-- Some sticky tape
+- Een schaar
+- Golfkarton
+- Aluminiumfolie
+- Een Pritt-stift
+- Wat plakband
 
-**Optional**:
+**Naar eigen keuze**:
 
-- A pencil and a ruler (if you want to be more precise with your make)
-- Some nice ribbon OR string OR coloured paper/card OR plain paper that you have coloured in
+- Een potlood en een liniaal (als je nauwkeuriger wilt zijn)
+- Een lint, draad, gekleurd papier/karton of een wit vel papier dat je zelf hebt ingekleurd
 
-![The image shows a piece of corrugated card, some aluminium foil, a pencil, a ruler, a glue stick, a pair of scissors and a piece of rainbow coloured ribbon.](images/switch-gather-materials.jpeg)
+![De afbeelding toont een stuk golfkarton, wat aluminiumfolie, een potlood, een liniaal, een Pritt-stift, een schaar en een stuk regenboogkleurig lint.](images/switch-gather-materials.jpeg)
 
-**Instructions**
+**Instructies**
 
-**Step 1:** Cut the **corrugated card** into three rectangles that are the same size.
+**Stap 1:** Snijd het **golfkarton** in drie rechthoeken van dezelfde grootte.
 
-![Three pieces of corrugated card cut into equal sized rectangles.](images/three-rectangles.jpg)
-
-
-**Step 2:** Cut a section out of the centre of one of your rectangles. Keep the piece of card that you have cut out as this will be used later.
-
-![Three pieces of rectangle corrugated card. The middle piece has the centre removed. The removed piece is placed next to it.](images/centre-cut.jpg)
-
-**Step 3:** Take the **aluminium foil** and cut it to the same size as the un-cut rectangles.
-
-**Step 4:** Glue the cardboard and attach the foil. Make sure you don't get too much glue on the outside of the foil, or it will affect the contacts of the switch.
-
-![Three pieces of rectangle corrugated card. The pieces to the left and right have aluminium foil glued onto them.](images/add-foil.jpg)
+![Drie stukken golfkarton in rechthoeken van gelijke grootte geknipt.](images/three-rectangles.jpg)
 
 
-**Step 5:** Take the piece of card that you removed from the centre rectangle and cut a V shape out of the top to make it easier to place it inside your switch.
+**Stap 2:** Knip een stuk uit het midden van een van je rechthoeken. Bewaar het stukje karton dat je hebt uitgeknipt, want dit wordt later gebruikt.
 
-**Step 6:** Trim the sides by a few millimetres to make sure that it will easily fit into your popper.
+![Drie stukken rechthoekig golfkarton. Het middelste stuk heeft het centrum verwijderd. Het verwijderde stuk wordt ernaast geplaatst.](images/centre-cut.jpg)
 
-![Three pieces of rectangle corrugated card. The pieces to the left and right have aluminium foil glued onto them. An additional, smaller piece of card is underneath and has a V shape cut out of one end.](images/trim-piece.jpg)
+**Stap 3:** Neem de **aluminiumfolie** en knip deze in hetzelfde formaat als de ongesneden rechthoeken.
 
-**Step 7:** Cover the removed piece in **aluminium foil**. It is very important that you use one piece of foil and that it wraps all the way around. This is what will make the switch close and allow the current to flow.
+**Stap 4:** Lijm het karton en bevestig de folie. Zorg ervoor dat je niet te veel lijm aan de buitenkant van de folie krijgt, anders tast dit de contacten van de schakelaar aan.
 
-![Three pieces of rectangle corrugated card. The pieces to the left and right have aluminium foil glued onto them. An additional, smaller piece of card is underneath and has a V shape cut out of one end. The smaller pieces has been covered with aluminum foil.](images/foil-cover.gif)
+![Drie stukken rechthoekig golfkarton. Op de stukken links en rechts is aluminiumfolie gelijmd.](images/add-foil.jpg)
 
-**Step 8:** Next, use some sticky tape to secure the pin end of two jumper wires to the top of each rectangle. It is important that the pins make a secure contact with the aluminium foil. Make sure that each pin is lying flat against the foil with the plastic part of the jumper wire against the edge of the cardboard.
 
-![A rectangle piece of card is covered with aluminium foil. The pin end of a jumper wire has been stuck to the top section with sticky tape.](images/pin-sticky-tape-1.jpg)
+**Stap 5:** Pak het stuk karton dat je uit de middelste rechthoek hebt gehaald en knip een V-vorm uit de bovenkant om het gemakkelijker te maken om het in je schakelaar te plaatsen.
 
-**Step 9:** Add more tape to secure the jumper wire and stop it from accidentally coming loose.
+**Stap 6:** Knip de zijkanten een paar millimeter bij zodat hij makkelijk in je middenstuk past.
 
-![A rectangle piece of card is covered with aluminium foil. The pin end of a jumper wire has been stuck to the top section with sticky tape. A further piece of sticky tape has been used to secure the jumper wire in place.](images/pin-sticky-tape-2.jpg)
+![Drie stukken rechthoekig golfkarton. Op de stukken links en rechts is aluminiumfolie gelijmd. Een extra, kleiner stuk karton zit eronder en heeft een V-vorm die uit één uiteinde is gesneden.](images/trim-piece.jpg)
 
-**Step 10:** Add glue to one side of the middle piece and stick it to the left rectangle. This will create a barrier between the two pieces of foil and allow space for your centre piece to be placed inside.
+**Stap 7:** Bedek het verwijderde stuk in **aluminiumfolie**. Het is heel belangrijk dat je één stuk folie gebruikt en dat het helemaal omringd wordt. Dit is wat de schakelaar sluit en de stroom laat stromen.
 
-![The middle piece has now been glued onto the left rectangle.](images/glue-left.jpg)
+![Drie stukken rechthoekig golfkarton. Op de stukken links en rechts is aluminiumfolie gelijmd. Een extra, kleiner stuk karton zit eronder en heeft een V-vorm die uit één uiteinde is gesneden. De kleinere stukken zijn bedekt met aluminiumfolie.](images/foil-cover.gif)
 
-**Step 11:** Add glue to the other side of the middle piece and stick the foil face of your other rectangle on top. Make sure that the two pieces of foil **are not** touching. You may need to trim your foil if it is overlapping.
+**Stap 8:** Gebruik vervolgens wat plakband om het pinuiteinde van twee verbindingsdraden aan de bovenkant van elke rechthoek te bevestigen. Het is belangrijk dat de pinnen goed contact maken met de aluminiumfolie. Zorg ervoor dat elke pin plat tegen de folie ligt met het plastic gedeelte van de verbindingsdraad tegen de rand van het karton.
 
-![The right piece has now been glued onto the left rectangle, face down.](images/glue-right.jpg)
+![Een rechthoekig stukje karton is bedekt met folie. Het pinuiteinde van een verbindingsdraad is met plakband aan het bovenste gedeelte geplakt.](images/pin-sticky-tape-1.jpg)
 
-Now use your switch with your project!
+**Stap 9:** Voeg meer tape toe om de verbindingsdraad te beveiligen en te voorkomen dat deze per ongeluk loskomt.
+
+![Een rechthoekig stukje karton is bedekt met folie. Het pinuiteinde van een verbindingsdraad is met plakband aan het bovenste gedeelte geplakt. Er is nog een stukje plakband gebruikt om de verbindingsdraad vast te zetten.](images/pin-sticky-tape-2.jpg)
+
+**Stap 10:** Voeg lijm toe aan één kant van het middelste stuk en bevestig het aan de linker rechthoek. Dit creëert een barrière tussen de twee stukken folie en maakt de ruimte vrij om je middenstuk erin te plaatsen.
+
+![Het middenstuk karton is nu op de linker rechthoek gelijmd.](images/glue-left.jpg)
+
+**Stap 11:** Voeg lijm toe aan de andere kant van het middelste stuk en bevestig de foliekant van de andere rechthoek bovenop. Zorg ervoor dat de twee stukken folie elkaar **niet** raken. Mogelijk moet je folie bijknippen als het overlapt.
+
+![Het rechter stuk karton is nu met de bedrukte zijde naar beneden op de linker rechthoek gelijmd.](images/glue-right.jpg)
+
+Gebruik nu je trekschakelaar met je project!
