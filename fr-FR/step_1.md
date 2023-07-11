@@ -1,60 +1,60 @@
-To create a pull switch, you will need:
+Pour créer un interrupteur à tirette, tu auras besoin de :
 
-- A pair of scissors
-- Corrugated card
-- Aluminium foil
-- A glue stick
-- Some sticky tape
+- Une paire de ciseaux
+- Du carton ondulé
+- Papier d'aluminium
+- Un bâton de colle
+- Du ruban adhésif
 
-**Optional**:
+**Facultatif** :
 
-- A pencil and a ruler (if you want to be more precise with your make)
-- Some nice ribbon OR string OR coloured paper/card OR plain paper that you have coloured in
+- Un crayon et une règle (si tu veux être plus précis avec ce que tu fais)
+- Du joli ruban OU de la ficelle OU du papier/carte de couleur OU du papier ordinaire que tu as colorié
 
-![The image shows a piece of corrugated card, some aluminium foil, a pencil, a ruler, a glue stick, a pair of scissors and a piece of rainbow coloured ribbon.](images/switch-gather-materials.jpeg)
+![L'image montre un morceau de carton ondulé, du papier d'aluminium, un crayon, une règle, un bâton de colle, une paire de ciseaux et un morceau de ruban de couleur arc-en-ciel.](images/switch-gather-materials.jpeg)
 
 **Instructions**
 
-**Step 1:** Cut the **corrugated card** into three rectangles that are the same size.
+**Étape 1 :** Coupe la **carte ondulée** en trois rectangles de même taille.
 
-![Three pieces of corrugated card cut into equal sized rectangles.](images/three-rectangles.jpg)
-
-
-**Step 2:** Cut a section out of the centre of one of your rectangles. Keep the piece of card that you have cut out as this will be used later.
-
-![Three pieces of rectangle corrugated card. The middle piece has the centre removed. The removed piece is placed next to it.](images/centre-cut.jpg)
-
-**Step 3:** Take the **aluminium foil** and cut it to the same size as the un-cut rectangles.
-
-**Step 4:** Glue the cardboard and attach the foil. Make sure you don't get too much glue on the outside of the foil, or it will affect the contacts of the switch.
-
-![Three pieces of rectangle corrugated card. The pieces to the left and right have aluminium foil glued onto them.](images/add-foil.jpg)
+![Trois morceaux de carton ondulé coupés en rectangles de même taille.](images/three-rectangles.jpg)
 
 
-**Step 5:** Take the piece of card that you removed from the centre rectangle and cut a V shape out of the top to make it easier to place it inside your switch.
+**Étape 2 :** Découpe une section au centre de l'un de tes rectangles. Conserve le morceau de carton que tu as découpé, car il servira plus tard.
 
-**Step 6:** Trim the sides by a few millimetres to make sure that it will easily fit into your popper.
+![Trois pièces de carte rectangle ondulée. La pièce du milieu a le centre enlevé. La pièce retirée est placée à côté.](images/centre-cut.jpg)
 
-![Three pieces of rectangle corrugated card. The pieces to the left and right have aluminium foil glued onto them. An additional, smaller piece of card is underneath and has a V shape cut out of one end.](images/trim-piece.jpg)
+**Étape 3 :** Prends le **papier d'aluminium** et coupe-le à la même taille que les rectangles non découpés.
 
-**Step 7:** Cover the removed piece in **aluminium foil**. It is very important that you use one piece of foil and that it wraps all the way around. This is what will make the switch close and allow the current to flow.
+**Étape 4 :** Colle le carton et attache le papier d'aluminium. Assure-toi de ne pas avoir trop de colle à l'extérieur de l'aluminium, ou cela affectera les contacts de l'interrupteur.
 
-![Three pieces of rectangle corrugated card. The pieces to the left and right have aluminium foil glued onto them. An additional, smaller piece of card is underneath and has a V shape cut out of one end. The smaller pieces has been covered with aluminum foil.](images/foil-cover.gif)
+![Trois pièces de carte rectangle ondulée. Les pièces à gauche et à droite ont du papier d'aluminium collé dessus.](images/add-foil.jpg)
 
-**Step 8:** Next, use some sticky tape to secure the pin end of two jumper wires to the top of each rectangle. It is important that the pins make a secure contact with the aluminium foil. Make sure that each pin is lying flat against the foil with the plastic part of the jumper wire against the edge of the cardboard.
 
-![A rectangle piece of card is covered with aluminium foil. The pin end of a jumper wire has been stuck to the top section with sticky tape.](images/pin-sticky-tape-1.jpg)
+**Étape 5 :** Prends le morceau de carton que tu as retiré du rectangle central et découpe une forme en V sur le dessus pour faciliter son placement à l'intérieur de ton interrupteur.
 
-**Step 9:** Add more tape to secure the jumper wire and stop it from accidentally coming loose.
+**Étape 6 :** Coupe les côtés de quelques millimètres pour t'assurer qu'il s'insérera facilement dans ton interrupteur.
 
-![A rectangle piece of card is covered with aluminium foil. The pin end of a jumper wire has been stuck to the top section with sticky tape. A further piece of sticky tape has been used to secure the jumper wire in place.](images/pin-sticky-tape-2.jpg)
+![Trois pièces de carte rectangle ondulée. Les pièces à gauche et à droite ont du papier d'aluminium collé dessus. Un autre petit morceau de carte est en dessous et a une forme V découpée dans une extrémité.](images/trim-piece.jpg)
 
-**Step 10:** Add glue to one side of the middle piece and stick it to the left rectangle. This will create a barrier between the two pieces of foil and allow space for your centre piece to be placed inside.
+**Étape 7 :** Recouvre la pièce retirée de **papier d'aluminium**. Il est très important que tu utilises un morceau de papier d'aluminium et qu'il s'enroule tout autour. C'est ce qui fera fermer l'interrupteur et permettra au courant de circuler.
 
-![The middle piece has now been glued onto the left rectangle.](images/glue-left.jpg)
+![Trois pièces de carte rectangle ondulée. Les pièces à gauche et à droite ont du papier d'aluminium collé dessus. Un autre petit morceau de carte est en dessous et a une forme V découpée dans une extrémité. Les plus petits morceaux ont été recouverts de papier d'aluminium.](images/foil-cover.gif)
 
-**Step 11:** Add glue to the other side of the middle piece and stick the foil face of your other rectangle on top. Make sure that the two pieces of foil **are not** touching. You may need to trim your foil if it is overlapping.
+**Étape 8 :** Ensuite, utilise du ruban adhésif pour fixer l'extrémité de la broche de deux fils de liaison au sommet de chaque rectangle. Il est important que les broches fassent un contact sécurisé avec le papier d'aluminium. Assure-toi que chaque broche est à plat contre le papier d'aluminium avec la partie plastique du fil de liaison contre le bord du carton.
 
-![The right piece has now been glued onto the left rectangle, face down.](images/glue-right.jpg)
+![Un rectangle de carte est recouvert d'une feuille d'aluminium. L'extrémité de la broche d'un fil de liaison a été collée à la section supérieure avec du ruban adhésif.](images/pin-sticky-tape-1.jpg)
 
-Now use your switch with your project!
+**Étape 9 :** Ajoute plus de ruban adhésif pour fixer le fil de liaison et l'empêcher de se détacher accidentellement.
+
+![Un rectangle de carte est recouvert d'une feuille d'aluminium. L'extrémité de la broche d'un fil de liaison a été collée à la section supérieure avec du ruban adhésif. Un autre morceau de ruban adhésif a été utilisé pour fixer le fil de liaison en place.](images/pin-sticky-tape-2.jpg)
+
+**Étape 10 :** Ajoute de la colle sur un côté de la pièce du milieu et colle-la sur le rectangle de gauche. Cela créera une barrière entre les deux morceaux de papier d'aluminium et laissera de l'espace pour que ta pièce centrale soit placée à l'intérieur.
+
+![La pièce du milieu est maintenant collée sur le rectangle de gauche.](images/glue-left.jpg)
+
+**Étape 11 :** Ajoute de la colle de l'autre côté de la pièce du milieu et colle la face en aluminium de ton autre rectangle sur le dessus. Assure-toi que les deux morceaux de papier d'aluminium **ne se touchent pas**. Il se peut que tu doives couper ta feuille de papier d'aluminium si elle se chevauche.
+
+![La pièce de droite est maintenant collée sur le rectangle de gauche, face vers le bas.](images/glue-right.jpg)
+
+Maintenant utilise ton interrupteur avec ton projet !
